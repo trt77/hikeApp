@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hikeApp</string>
+    <string name="channel_name">Stopwatch</string>
+    <string name="channel_description">Notification pops up when stopwatch in operation.</string>
+</resources>
